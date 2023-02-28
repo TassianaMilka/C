@@ -16,3 +16,13 @@ Os códigos em C vai conter o que mais considero interresante.
 3.Classifiquei cada um em pastas diferente aos mais simples para os mais não sendo desta maneira.
 
 # --------------------------------------------------------------------------------------------------------------------------------
+
+# Summary in Portuguese
+
+The C codes will contain what I find most interesting.
+
+1. Observation everyone will have questions to identify what was done in the lines of codes;
+
+2.The explanation in the lines informing what is or defines your achievement;
+
+3.I classified each one in different folders, from the simplest to the most not being this way.
