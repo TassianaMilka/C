@@ -38,7 +38,7 @@ int main()
      printf("\n\n");
 
 
-     delta=b^2-4*a*c;
+     delta=b^2-4*a*c;//Conta de delta.
      
      //Realização da soma de delta com outro número;
      
@@ -61,7 +61,7 @@ int main()
     scanf("%d",&numeroR);
     printf("\n\n");
     
-    resto=Div%numeroR;
+    resto=Div%numeroR;//Conta de Resto
 
      //Imprimir os resultados finais
  
