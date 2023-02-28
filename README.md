@@ -7,7 +7,7 @@ Summary in Portuguese,English,Spanish.
 # Resumo em Português
 
 
-Os códigos em C is C++ vai conter o que mais considero interresante.
+Os códigos em C e C++ vai conter o que mais considero interresante.
 
 1.Observação todos terão perguntas para identificar o que foi realizado nas linhas dos códigos;
 
@@ -19,7 +19,7 @@ Os códigos em C is C++ vai conter o que mais considero interresante.
 
 # Summary in English
 
-The C codes will contain what I find most interesting.
+The C is C++ codes will contain what I find most interesting.
 
 1.Observation everyone will have questions to identify what was done in the lines of codes;
 
@@ -31,7 +31,7 @@ The C codes will contain what I find most interesting.
 
 # Resumen en portugués
 
-Los códigos C contendrán lo que me parezca más interesante.
+Los códigos C y C++ contendrán lo que me parezca más interesante.
 
 1.Observación todos tendrán preguntas para identificar lo que se hizo en las líneas de códigos;
 
