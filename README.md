@@ -1,13 +1,13 @@
-# C
+# C is C++
 
-C programming
+C is C++ programming
 
 Summary in Portuguese,English,Spanish.
 
 # Resumo em Português
 
 
-Os códigos em C vai conter o que mais considero interresante.
+Os códigos em C is C++ vai conter o que mais considero interresante.
 
 1.Observação todos terão perguntas para identificar o que foi realizado nas linhas dos códigos;
 
