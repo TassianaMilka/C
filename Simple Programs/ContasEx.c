@@ -27,43 +27,43 @@ int main()
      int resto=0;
      
      //Realização do Delta.
-     printf("Informe o primeiro numero do A");
-     scanf("%d",&a);
+     printf("Informe o primeiro numero do A");//Entrada de dado ou Leitura de entrada.
+     scanf("%d",&a);                          //Saída de dado   ou   Leitura de saída.
      printf("\n");
-     printf("Informe o segundo numero do  B");
-     scanf("%d",&b);
+     printf("Informe o segundo numero do  B");//Entrada de dado ou Leitura de entrada.
+     scanf("%d",&b);                         //Saída de dado ou Leitura de saída.
      printf("\n");
-     printf("Informe o  Terceiro numero do C");
-     scanf("%d",&c);
+     printf("Informe o  Terceiro numero do C");//Entrada de dado ou Leitura de entrada.
+     scanf("%d",&c);                          //Saída de dado ou Leitura de saída.
      printf("\n\n");
 
 
      delta=b^2-4*a*c;//Conta de delta.
      
-     //Realização da soma de delta com outro número;
+     //Realização da soma de delta com outro número.
      
-     printf("Informe o numero para realizar a soma");
-     scanf("%d",&numeroS);
+     printf("Informe o numero para realizar a soma"); //Entrada de dado ou Leitura de entrada.
+     scanf("%d",&numeroS);                            //Entrada de dado ou Leitura de saída.
      printf("\n\n");
      
      soma=delta+numeroS;//Conta da soma.
      
-     //Realização da divisão do resultado da soma com outro número;
+     //Realização da divisão do resultado da soma com outro número.
      
-     printf("Informe o numero para realizar a divisao com soma do resultado");//Entrada de dado ou Leitura de Saída.
-     scanf("%d",&numeroD);//Saída de dado ou leitura de Saída.
+     printf("Informe o numero para realizar a divisao com soma do resultado");//Entrada de dado ou Leitura de saída.
+     scanf("%d",&numeroD);//Saída de dado ou Leitura de saída.
      printf("\n\n");
      Div=soma/numeroD;//Conta da divisão.
      
     //Realização do resultado da divisão com outro número para encontrar o resto e finalização do programa.
     
-    printf("Informe o numero para encontrar o resto");
-    scanf("%d",&numeroR);
+    printf("Informe o numero para encontrar o resto"); //Etrada de dado ou Leitura de entrada.
+    scanf("%d",&numeroR);                              //Saída de dado ou Leitura de saída.
     printf("\n\n");
     
-    resto=Div%numeroR;//Conta de Resto
+    resto=Div%numeroR;//Conta de resto.
 
-     //Imprimir os resultados finais
+     //Imprimir os resultados finais.
  
      printf("----------------O RESULTADO DO DELTA----------------------------"); 
      printf("\n\n");
