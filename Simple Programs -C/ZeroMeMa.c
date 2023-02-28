@@ -29,13 +29,13 @@ int main()
         
     }
      
-     
+  
      
      //Imprimir o resultado final igual a vários zeros.
      
       printf("O resultado obtido a zero\n%f",numero); 
 
 
-
+   
     return 0;
 }
