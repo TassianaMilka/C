@@ -26,3 +26,5 @@ The C codes will contain what I find most interesting.
 2.The explanation in the lines informing what is or defines your achievement;
 
 3.I classified each one in different folders, from the simplest to the most not being this way.
+
+# --------------------------------------------------------------------------------------------------------------------------------
