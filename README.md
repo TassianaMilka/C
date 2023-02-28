@@ -1,6 +1,6 @@
-# C is C++
+# C and  C++
 
-C is C++ programming
+C and  C++ programming
 
 Summary in Portuguese,English,Spanish.
 
@@ -19,7 +19,7 @@ Os códigos em C e C++ vai conter o que mais considero interresante.
 
 # Summary in English
 
-The C is C++ codes will contain what I find most interesting.
+The C and C++ codes will contain what I find most interesting.
 
 1.Observation everyone will have questions to identify what was done in the lines of codes;
 
