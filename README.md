@@ -17,7 +17,7 @@ Os códigos em C vai conter o que mais considero interresante.
 
 # --------------------------------------------------------------------------------------------------------------------------------
 
-# Summary in Portuguese
+# Summary in English
 
 The C codes will contain what I find most interesting.
 
