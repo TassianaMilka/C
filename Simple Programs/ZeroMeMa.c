@@ -1,0 +1,48 @@
+/******************************************************************************
+
+                            Online C Compiler.
+                Code, Compile, Run and Debug C program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+
+//Bibliotecas
+
+#include <stdio.h>
+#include <stdlib.h>
+
+  //Crie um programa que tenha entrada de dado,depois que possa fazer o 1000 de maneira menor e maior de retornar 
+  //na hora para imprimir visualiza vários zeros(0);
+
+int main()
+{ 
+    
+    //Declarações da variáveis.
+    
+    float numeroP;
+    float numero;
+    
+    
+    printf("Informe o numero");//Entrada de dado ou Leitura de saída.
+    scanf("%f",&numeroP);      //Saída de dado  ou Leitura de saída.
+    
+
+    //Operando uma realização lógica do menor e maior.
+    if(numero<=1000){   
+         
+
+    }else if(numero>=1000){
+        
+        
+    }
+     
+     
+     
+     //Imprimir o resultado final igual a vários zeros.
+     
+      printf("O resultado obtido a zero\n%f",numero); 
+
+
+
+    return 0;
+}
