@@ -14,3 +14,5 @@ Os códigos em C vai conter o que mais considero interresante.
 2.A explicação nas linhas informando o que é ou define a sua realização;
 
 3.Classifico cada um em pastas diferente aos mais simples para os mais não sendo desta maneira.
+
+# --------------------------------------------------------------------------------------------------------------------------------
