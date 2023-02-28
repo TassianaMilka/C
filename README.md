@@ -2,7 +2,7 @@
 
 C programming
 
-Resume in Portuguese,English,Spanish.
+Summary in Portuguese,English,Spanish.
 
 # Resumo em Português
 
