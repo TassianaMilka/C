@@ -21,7 +21,7 @@ Os códigos em C vai conter o que mais considero interresante.
 
 The C codes will contain what I find most interesting.
 
-1. Observation everyone will have questions to identify what was done in the lines of codes;
+1.Observation everyone will have questions to identify what was done in the lines of codes;
 
 2.The explanation in the lines informing what is or defines your achievement;
 
