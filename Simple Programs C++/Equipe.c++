@@ -4,7 +4,7 @@
 using namespace std;
  
  //Crie um programa sobre uma empresa que deseja saber quantos pontos 1 e 2 de equipes conseguiu 
- //atingir e depois multiplicar por 2 e saber o resultado final.
+ //atingir depois multiplicar por 2 e saber o resultado final.
 int main()
 {  
     //Declarações das Variáveis.
