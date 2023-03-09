@@ -33,55 +33,55 @@ main ()
 
   
 
-  cout << "Informe a idade";//Entrada de dado ou Leitura de entrada.
-  cin >> idade1;            //Saída de dado ou Leitura de saída.
+  cout << "Informe a idade";//Entrada de dado.
+  cin >> idade1;            //Saída de dado.
 
-  cout << "Informe  [Menino-M]  [Menina-F]";//Entrada de dado ou Leitura de entrada.
-  cin >> dado1;                             //Saída de dado ou Leitura de saída.
+  cout << "Informe  [Menino-M]  [Menina-F]";//Entrada de dado.
+  cin >> dado1;                             //Saída de dado.
 
 
-  cout << "Informe  idade";                 //Entrada de dado ou Leitura de entrada
-  cin >> idade2;                            //Saída de dado ou Leitura de saída.
+  cout << "Informe  idade";                 //Entrada de dado.
+  cin >> idade2;                            //Saída de dado.
  
-  cout << "Informe  [Menino-M]  [Menina-F]";//Entrada de dado ou Leitura de entrada
-  cin >> dado2;                             //Saída de dado ou Leitura de saída.  
+  cout << "Informe  [Menino-M]  [Menina-F]";//Entrada de dado.
+  cin >> dado2;                             //Saída de dado.  
  
-  cout << "Informe  idade";//Entrada de dado ou Leitura de entrada.
-  cin >> idade3;          //Saída de dado ou Leitura de saída. 
+  cout << "Informe  idade";//Entrada de dado .
+  cin >> idade3;          //Saída de dado. 
 
-  cout << "Informe  [Menino-M]  [Menina-F]"; //Entrada de dado ou Leitura de entrada.
-  cin >> dado3;                              //Saída de dado ou Leitura de saída. 
+  cout << "Informe  [Menino-M]  [Menina-F]"; //Entrada de dado .
+  cin >> dado3;                              //Saída de dado. 
   
   
-  cout << "Informe  idade"; //Entrada de dado ou Leitura de entrada.
-  cin >> idade4;            //Saída de dado ou Leitura de saída.   
+  cout << "Informe  idade"; //Entrada de dado.
+  cin >> idade4;            //Saída de dado.   
   
-  cout << "Informe  [Menino-M]  [Menina-F]"; //Entrada de dado ou Leitura de entrada.
-  cin >> dado4;                              //Saída de dado ou Leitura de saída.
+  cout << "Informe  [Menino-M]  [Menina-F]"; //Entrada de dado.
+  cin >> dado4;                              //Saída de dado.
   
-  cout << "Informe  idade";//Entrada de dado ou Leitura de entrada.
-  cin >> idade5;          //Saída de dado ou Leitura de saída.      
+  cout << "Informe  idade";//Entrada de dado.
+  cin >> idade5;          //Saída de dado.      
 
-  cout << "Informe  [Menino-M]  [Menina-F]";//Entrada de dado ou Leitura de entrada.
-  cin >> dado5;                             //Saída de dado ou Leitura de saída.                   
+  cout << "Informe  [Menino-M]  [Menina-F]";//Entrada de dado.
+  cin >> dado5;                             //Saída de dado.                   
   
-  cout << "Informe  idade";//Entrada de dado ou Leitura de entrada.
-  cin >> idade6;         //Saída de dado ou Leitura de saída. 
+  cout << "Informe  idade";//Entrada de dado.
+  cin >> idade6;         //Saída de dado . 
   
-  cout << "Informe  [Menino-M]  [Menina-F]";//Entrada de dado ou Leitura de entrada.
-  cin >> dado6;                            //Saída de dado ou Leitura de saída.
+  cout << "Informe  [Menino-M]  [Menina-F]";//Entrada de dado.
+  cin >> dado6;                            //Saída de dado.
   
-  cout << "Informe  idade";//Entrada de dado ou Leitura de entrada.
-  cin >> idade7;          //Saída de dado ou Leitura de saída.   
+  cout << "Informe  idade";//Entrada de dado.
+  cin >> idade7;          //Saída de dado.   
   
-  cout << "Informe  [Menino-M]  [Menina-F]"; //Entrada de dado ou Leitura de entrada
-  cin >> dado7;                              //Saída de dado ou Leitura de saída.            
+  cout << "Informe  [Menino-M]  [Menina-F]"; //Entrada de dado.
+  cin >> dado7;                              //Saída de dado.            
   
-  cout << "Informe  idade";//Entrada de dado ou Leitura de entrada           
-  cin >> idade8;           //Saída de dado ou Leitura de saída.
+  cout << "Informe  idade";//Entrada de dado.           
+  cin >> idade8;           //Saída de dado.
 
-  cout << "Informe  [Menino-M]  [Menina-F]";//Entrada de dado ou Leitura de entrada
-  cin >> dado8;                             //Saída de dado ou Leitura de saída.
+  cout << "Informe  [Menino-M]  [Menina-F]";//Entrada de dado.
+  cin >> dado8;                             //Saída de dado.
 
   cout << "\n\n";
 
