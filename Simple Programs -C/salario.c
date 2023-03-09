@@ -4,7 +4,7 @@
 #include<locale.h>
 
 
-//Fazer um programa que necessita a entrada de dado de salario, se realizou horas extras,informa a equipe que 
+//Fazer um programa que necessita a entrada de dado de salario, se realizou horas extras sim ou não,informa a equipe que 
 //trabalha,calular salário-100reais e acrescenta 0.10 porcento e no final imprimir o resultado.
 
 int main()
@@ -23,7 +23,7 @@ int main()
     scanf("%f",&salario);//Saída de dado.
     printf("\n\n");
   
-    printf("Informe realizou Hora extras \n");//Entrada de dado.
+    printf("Informe realizou Hora extras Sim ou Não \n");//Entrada de dado.
     scanf("%s",&extras);//Saída de dado.                    
     printf("\n\n");
      
