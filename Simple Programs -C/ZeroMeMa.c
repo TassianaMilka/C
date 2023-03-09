@@ -16,8 +16,8 @@ int main()
     float numero;
     
     
-    printf("Informe o numero");//Entrada de dado ou Leitura de saída.
-    scanf("%f",&numeroP);      //Saída de dado  ou Leitura de saída.
+    printf("Informe o numero");//Entrada de dado 
+    scanf("%f",&numeroP);      //Saída de dado  
     
 
     //Operando uma realização lógica do menor e maior.
