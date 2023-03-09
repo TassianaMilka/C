@@ -23,7 +23,7 @@ int main()
     scanf("%f",&salario);//Saída de dado.
     printf("\n\n");
   
-    printf("Informe realizou Hora extras Sim ou Não \n");//Entrada de dado.
+    printf("Informe realizou Horas extras Sim ou Não \n");//Entrada de dado.
     scanf("%s",&extras);//Saída de dado.                    
     printf("\n\n");
      
