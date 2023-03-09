@@ -13,11 +13,11 @@ int main()
     float ponto1=0;
     float ponto2=0;
     
-    cout<<"Informe os pontos da equipe 1\n";//Entrada de dado ou Leitura de entrada.
-    cin >> equipe1;                         //Saída de dado ou Leitura de saída.
+    cout<<"Informe os pontos da equipe 1\n";//Entrada de dado.
+    cin >> equipe1;                         //Saída de dado.
     
-    cout<<"Informe os pontos da equipe 2\n"; //Entrada de dado ou Leitura de entrada.
-    cin>>equipe2;                            //Saída de dado   ou Leitura de saída.
+    cout<<"Informe os pontos da equipe 2\n"; //Entrada de dado.
+    cin>>equipe2;                            //Saída de dado.
     
     //As contas para saber os resultados finais.
     ponto1=equipe1*2;
