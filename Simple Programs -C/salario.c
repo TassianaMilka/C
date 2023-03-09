@@ -11,7 +11,7 @@ int main()
 {
     
     
-    //Declarar as Variáveis.
+    //Declaração das Variáveis.
     
     float salario;
     char  extras[20];
