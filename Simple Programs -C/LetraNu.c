@@ -1,12 +1,8 @@
-/******************************************************************************
 
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
 
-*******************************************************************************/
-
-#include <stdio.h>
+#include <stdio.h> //Bliotecas
+#include<stdlib.h>
+#include<locale.h>
 
 //Pela Tabela de Letra tendo as suas representaçõas cada letra e imprimir no final a Frase
 //Realizando na Linguagem c e Compilando o Resultado.
