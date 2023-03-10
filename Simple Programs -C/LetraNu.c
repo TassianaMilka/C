@@ -293,7 +293,7 @@ int main()
     printf("\n\n"); 
 
 
-    //Imprimir o resultado 36.
+    //Imprimir o resultado.
     printf("Realizando na Linguagem C e Compilando o resultado\n");
     printf("Frase em Letra para numero:R\n%d",LetraNu1);
     printf("\n"); 
