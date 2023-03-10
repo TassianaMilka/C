@@ -4,11 +4,11 @@
 
 using namespace std;
 
-int
+
 
 //Necessitam armazenar os dados de algumas criança com isso cria com a entrada de dado sem utilizar o For(Laço de Repitição)
 //observação são 8 dados.A idade, se é Menino ou Menina e não final imprimir todos os dados inseridos.
-main ()
+int main ()
 {
  
  //Declaração das Variáveis
