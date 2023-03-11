@@ -1,7 +1,6 @@
 //Bibliotecas
 #include <iostream>
 #include<locale.h>
-#include <cstdlib>
 using namespace std;
 
 
