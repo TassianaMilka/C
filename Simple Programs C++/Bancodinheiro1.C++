@@ -8,7 +8,7 @@ using namespace std;
 //setlocale(LC_ALL, "portuguese");
 
 
-//Criar com a entrada de dado e saída de dado para debositar dinheiro na Conta Bancária e somar o quantos ficou no final.
+//Criar com a entrada de dado e saída de dado para depositar dinheiro na Conta Bancária e somar o quantos ficou no final.
 
 
 
