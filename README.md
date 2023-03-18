@@ -29,7 +29,7 @@ The C and C++ codes will contain what I find most interesting.
 
 # --------------------------------------------------------------------------------------------------------------------------------
 
-# Resumen en portugués
+# Resumen en Español
 
 Los códigos C y C++ contendrán lo que me parezca más interesante.
 
