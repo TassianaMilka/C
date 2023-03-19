@@ -4,8 +4,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-  //Crie um programa que tenha entrada de dado,depois que possa fazer o 1000 de maneira menor e maior do retorno 
-  //para imprimir e visualizar vários zeros(0).
+
+//setlocale(LC_ALL, "portuguese");
+
+//Crie um programa que tenha entrada de dado,depois que possa fazer o 1000 de maneira menor e maior do retorno 
+//para imprimir e visualizar vários zeros(0).
 
 int main()
 { 
