@@ -4,6 +4,9 @@
 #include<stdlib.h>
 #include<locale.h>
 
+
+//setlocale(LC_ALL, "portuguese");
+
 //Pela Tabela de Letra tendo as suas representaçõas cada letra e imprimir no final a Frase
 //Realizando na Linguagem c e Compilando o Resultado.
 
