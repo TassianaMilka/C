@@ -5,7 +5,7 @@
 #include<stdlib.h>
 #include<locale.h>
 
-
+//setlocale(LC_ALL, "portuguese");
 //Fazer um programa que necessita a entrada de dado de salario, se realizou horas extras sim ou não,informa a equipe que 
 //trabalha,calular salário-100reais e acrescenta 0.10 porcento e no final imprimir o resultado.
 
