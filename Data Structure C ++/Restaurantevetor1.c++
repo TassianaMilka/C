@@ -48,29 +48,24 @@ int main()
                            
       //Cálculo 3.
       cal3[i]=20.00+0.5;
-    //Imprimir o resuldado do Cálculo 3.
+     //Imprimir o resuldado do Cálculo 3.
       cout<<"The resultad calcule\t"<<cal3[i];
                             
     }if(prato[i] == 7|| prato[i]==8){
                             
       //Cálculo 4.
       cal4[i]=25.00+0.5; 
-    //Imprimir o resuldado do Cálculo 4.
+      //Imprimir o resuldado do Cálculo 4.
        cout<<"The resultad calcule\t"<<cal4[i];
                    
     }if(prato[i] == 9|| prato[i]==10){
         
        //Cálculo 5.
         cal5[i]=30.00+0.5;
-    //Imprimir o resuldado do Cálculo 5.   
+      //Imprimir o resuldado do Cálculo 5.   
        cout<<"The resultad calcule\t"<<cal5[i];  
     }
-     
-    
-     
-
-
-
+       
 
     return 0;
 }
