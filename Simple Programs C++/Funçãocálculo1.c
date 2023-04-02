@@ -57,12 +57,12 @@ int main()
     cal=num1+num2+num3+num4+num5+num6+num7+num8;
     //Imprimir o resultado do cálculo da soma dos números.
     cout<<"O resultado do cálculo da soma\n"<<cal;
-    //Nada entre os parênteses. que faz parte da segunda parte.
+    //Nada entre os parênteses que faz parte da segunda parte.
     int fim();
     //Retorno.
     return 0;
 }
-//Segunda parte de função dentro do parênteses. passa o void.
+//Segunda parte de função dentro do parênteses que passa o void.
 int fim(void){
     
     //Declaração de variável.
