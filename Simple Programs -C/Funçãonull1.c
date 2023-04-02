@@ -32,7 +32,7 @@ int main(){
       letra=fim(dado1,dado2);
      
      //Retorno.
-     return 0;
+     return 0; 
     
 }
 
