@@ -63,7 +63,7 @@ printf("O terceiro número digitado\n%d\n",n3);
 
 //Imprimir o resultado do cálculo.
 printf("-----------RESULTADO DO CÁLCULO------------\n\n");
-printf("-----------Finalização do cálculo e programa-------\n%d\n",cal);
+printf("-----------Finalização do cálculo-------\n%d\n",cal);
 printf("---------------------------------------------------\n\n");
 //Retorno.
 return resultado; 
