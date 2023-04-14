@@ -1,11 +1,10 @@
 
 //Bibliotecas
 #include<stdio.h>
-#include<locale.h>
 #include<stdlib.h>
 
 
-//setlocale(LC_ALL, "portuguese");
+
 
 
 //Realiza utilizando função que não passa pelo parênteses dentro informa três números fazendo 
