@@ -1,6 +1,5 @@
 
 //Bibliotecas
-#include<locale.h>
 #include<iostream>
 using namespace std;
 
@@ -118,13 +117,10 @@ if(num==1){
         
   cout<<"Não contém armazenado\n"; 
         
-}
-        
+}    
 //Imprimir mensagem final.
   cout<<"\nFim da execução";
-   
-       
-    
+ 
     //retorno.
     return 0;
 }
