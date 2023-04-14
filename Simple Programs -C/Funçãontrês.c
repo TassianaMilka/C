@@ -3,10 +3,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
-
-
-
 //Realiza utilizando função que não passa pelo parênteses dentro informa três números fazendo 
 //uma multiplicação entre os números,depois na segunda parte passa dentro do parênteses as 
 //variáveis para imprimir os números digitados,o resultado da conta e o retorno do resultado.
