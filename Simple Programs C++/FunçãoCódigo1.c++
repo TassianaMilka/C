@@ -30,7 +30,7 @@ cin>>n2;                          //Saída de dado.
 cout<<"Informe o terceiro número\n";//Entrada de dado.
 cin>>n3;                           //Saída de dado.
 
-//Realização do cálculo.
+//Realização do cálculo. 
 calculoPrimeiro=n1*n2*n3;
  
     
