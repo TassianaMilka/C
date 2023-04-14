@@ -31,7 +31,7 @@ scanf("%d",&n2);                    //Saída de dado.
 printf("Informe o terceiro número\n");//Entrada de dado.
 scanf("%d",&n3);                     //Saída de dado.
 
-//Realização do cálculo.
+//Realização do cálculo. 
 cal=n1*n2*n3;
 
 //Finaliza igual a resultado da segunda parte e depois dentro do parênteses
