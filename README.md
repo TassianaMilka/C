@@ -1,6 +1,6 @@
 # C,C++ and C#
 
-C and  C++ programming
+C,C++ and C# programming
 
 Summary in Portuguese,English,Spanish.
 
@@ -19,7 +19,7 @@ Os códigos em C e C++ vai conter o que mais considero interresante.
 
 # Summary in English
 
-The C and C++ codes will contain what I find most interesting.
+The C,C++ and C# codes will contain what I find most interesting.
 
 1.Observation everyone will have questions to identify what was done in the lines of codes;
 
@@ -31,7 +31,7 @@ The C and C++ codes will contain what I find most interesting.
 
 # Resumen en Español
 
-Los códigos C y C++ contendrán lo que me parezca más interesante.
+Los códigos C,C++  y C# contendrán lo que me parezca más interesante.
 
 1.Observación todos tendrán preguntas para identificar lo que se hizo en las líneas de códigos;
 
