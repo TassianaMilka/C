@@ -32,7 +32,7 @@ int main()
      
      
     //Controle de equipe em que trabalha com entrada de dado e saída de dado. 
-    printf("Informe a Equipe em que trabalha\n");
+    printf("Informe a Equipe em que trabalha\n"); 
     printf("Administração-(Administração)\n");
     printf("Atendimento-(Atendimento aos Cliente)\n");
     printf("Financias-(Financias)\n");
