@@ -28,7 +28,7 @@ int main()
    int LetraNu10;
    int LetraNu11;
    int LetraNu12;
-   int LetraNu13;
+   int LetraNu13; 
    int LetraNu14;
    int LetraNu15;
    int LetraNu16;
