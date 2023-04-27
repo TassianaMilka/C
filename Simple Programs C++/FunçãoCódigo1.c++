@@ -75,7 +75,7 @@ int main(int num)
 { 
 //Finaliza igual a resultado da primeira parte  utilizando o void inicio o que 
 //foi realizado.
-inicio();
+inicio(); 
 cout<<"\n\n";
 cout<<"De 1 até 8 para saber o código do número selecionado da compra realizada\n"; 
 cout<<"\nInforme o número\n";//Entrada de dado.
