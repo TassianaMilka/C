@@ -3,7 +3,7 @@ using System;
 
 //Faça que o nome da classe como definido Imprimir e depois escrever um pequeno texto.
 
-
+ 
 
 class Imprimir{//Nome da Classe
   static void Main(){//Sem o Main deixando só a classe com seu nome não vai compilar.
