@@ -6,7 +6,7 @@ using System;
  
 
 class Imprimir{//Nome da Classe
-  static void Main(){//Sem o Main deixando só a classe com seu nome não vai compilar.
+ public static void Main(){//Sem o Main deixando só a classe com seu nome não vai compilar.
     //Imprimir o texto. 
     Console.WriteLine("                  Aprender                           ");  
     Console.WriteLine("Começando a Programar em C# na função de aprender mais a programar\ntodos os códigos serão colocados no repositório do Github.");
