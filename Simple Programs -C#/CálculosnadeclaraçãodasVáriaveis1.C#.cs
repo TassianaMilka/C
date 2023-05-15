@@ -10,7 +10,7 @@ using System;
 class Calcular{//Nome da Classe
  public static void Main(){//Sem o Main deixando só a classe com seu nome não vai compilar.
     
-    //Declaração das váriaveis já realizando os cálculos do números descrito.
+    //Declaração das variáveis já realizando os cálculos do números descrito.
     int soma=2+1;
     int div=70/2;
     int vezes=90*2;
