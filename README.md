@@ -42,5 +42,5 @@ Los códigos C, C++  y C# contendrán lo que me parezca más interesante.
 
 # --------------------------------------------------------------------------------------------------------------------------------
 
-(Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
+(Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)
 
