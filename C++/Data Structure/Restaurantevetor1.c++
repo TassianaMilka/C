@@ -8,7 +8,7 @@ using namespace std;
 //Em um restaurante contém valores de prato de 10.00 até 30.00 reias + 0.5.Na estrada de 
 //dado informa se solicitar 2 prato vai ser 10.00,4 prato 15.00,5 prato vai ser 20.00,
 //8 prato vai ser 25.00,10 prato vai ser 30.00 utilizando vetor de posições;
-
+ 
 
 int main()
 {
