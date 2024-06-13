@@ -82,7 +82,7 @@ class valor{//Nome da Classe
             
     Console.WriteLine("1-Acer\n");
     Console.WriteLine("2-Asus\n");
-    Console.WriteLine("3-Del\n");
+    Console.WriteLine("3-Dell\n");
     Console.WriteLine("4-Multilaser\n");
     Console.WriteLine("5-Samsung\n");
     Console.WriteLine("6-Outras marcas de notebook\n");
