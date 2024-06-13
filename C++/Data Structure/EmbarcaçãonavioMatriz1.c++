@@ -5,7 +5,7 @@
 using namespace std;
 
 //setlocale(LC_ALL, "portuguese");
-
+ 
 
 //Realizar para imprimir várias vezes a frase "Embarcação de Navio" que seja da forma de um navio,sendo assim fazendo também 
 //uma matriz de 6x6 de linhas e colunas imprimindo também uma validação das toneladas  de cargas igual,maior e menor e uma 
