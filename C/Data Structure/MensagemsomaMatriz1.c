@@ -5,7 +5,7 @@
  
 //setlocale(LC_ALL, "portuguese");
 
-
+ 
 //Faça uma matriz 5x5 que possa imprimir e no meio conter uma frase "frase do sentido",laço de 
 //repitição que pede para informa um número que dele mesmo a soma do valor do cálculo e imprimir o resultado.
 
