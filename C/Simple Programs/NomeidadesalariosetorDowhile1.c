@@ -8,10 +8,10 @@
 //setlocale(LC_ALL, "portuguese");
 
 
-//Realiza um código que utilizando o do while o nome,idade contendo maior e menor 
-//que 20,salário e setor que possa no final imprimir todos os dados.               
+//Realiza um cÃ³digo que utilizando o do while o nome,idade contendo maior e menor 
+//que 20,salÃ¡rio e setor que possa no final imprimir todos os dados.               
  
-//Declaração das váriaveis.
+//DeclaraÃ§Ã£o das vÃ¡riaveis.
 int informa;
 char nome[180];
 int idade;
@@ -22,43 +22,43 @@ int main(){
 do{
 
 printf("Informe o nome\n");//Entrada de dado.
-scanf("%s",&nome);//Saída de dado.
+scanf("%s",&nome);//SaÃ­da de dado.
 printf("\n");
 
 printf("Informe a idade\n ");//Entrada de dado.
-scanf("%d",&idade);//Saída de dado.
+scanf("%d",&idade);//SaÃ­da de dado.
 
-//Validação de dado se a idade é maior que o número.
+//ValidaÃ§Ã£o de dado se a idade Ã© maior que o nÃºmero.
 if(idade>20){
 
 //Imprimir a  mensagem sobre a idade.
-printf("A idade é de %d\n",idade);
+printf("A idade Ã© de %d\n",idade);
 
-//Validação de dado se a idade é menor que o número.
+//ValidaÃ§Ã£o de dado se a idade Ã© menor que o nÃºmero.
 }else if(idade<20){
 
 //Imprimir a  mensagem sobre a idade.
-printf("A idade é de %d\n",idade);
+printf("A idade Ã© de %d\n",idade);
 
 
 }
 
-printf("Informe o salário\n ");//Entrada de dado.
-scanf("%f",&salario);//Saída de dado.
+printf("Informe o salÃ¡rio\n ");//Entrada de dado.
+scanf("%f",&salario);//SaÃ­da de dado.
 
 printf("Informe o setor em que trabalha\n");//Entrada de dado.
-scanf("%s",&setor);//Saída de dado.
+scanf("%s",&setor);//SaÃ­da de dado.
 
-//Imprimir os dados do funcionário(ria) o nome,idade,salario e setor.
+//Imprimir os dados do funcionÃ¡rio(ria) o nome,idade,salario e setor.
 printf("--------------------------------------------------------------------\n");
-printf("----------------DADOS  DOS FUNCIONÁRIOS(RIAS)-----------------------\n");
+printf("----------------DADOS  DOS FUNCIONÃRIOS(RIAS)-----------------------\n");
 printf("-------------------------------------------------------------------\n");
-printf("\nO nome do funcionário(ria)=%s\n",nome);
+printf("\nO nome do funcionÃ¡rio(ria)=%s\n",nome);
 printf("\nA idade=%d\n",idade);
-printf("\nO salário=%f\n ",salario);
+printf("\nO salÃ¡rio=%f\n ",salario);
 printf("\nO setor em que trabalha=%s\n",setor); 
 
-//Laço de repetição de informa até 1.
+//LaÃ§o de repetiÃ§Ã£o de informa atÃ© 1.
  
 }while(informa>1);
 
